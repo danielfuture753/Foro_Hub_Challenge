@@ -63,7 +63,7 @@ Una vez autenticado, podrás usar el token generado para realizar solicitudes a 
 El cual debera de ponerse en las otras solicitudes, ya que que si no se coloca arrojara error todo el tiempo.
 
 
-![Codigo autorizacion](images/auth _barren.png)
+![Codigo autorizacion](images/auth_barren.png)
 
 
 Contribución
@@ -79,5 +79,5 @@ Licencia
 Este proyecto no tiene una licencia especificada.
 
 Contactos
-Para preguntas o soporte, puedes contactarme a través de [tu correo electrónico o enlace a perfil profesional].
+Para preguntas o soporte, puedes contactarme a través de [daniel_hal1_@hotmail.com].
 
